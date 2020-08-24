@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/10-multistep-from/static/css/main.8dbe3618.chunk.css",
+    "main.js": "/10-multistep-from/static/js/main.d29c97f7.chunk.js",
+    "main.js.map": "/10-multistep-from/static/js/main.d29c97f7.chunk.js.map",
+    "runtime-main.js": "/10-multistep-from/static/js/runtime-main.eacda78a.js",
+    "runtime-main.js.map": "/10-multistep-from/static/js/runtime-main.eacda78a.js.map",
+    "static/js/2.7c052d41.chunk.js": "/10-multistep-from/static/js/2.7c052d41.chunk.js",
+    "static/js/2.7c052d41.chunk.js.map": "/10-multistep-from/static/js/2.7c052d41.chunk.js.map",
+    "index.html": "/10-multistep-from/index.html",
+    "precache-manifest.f93cae349ee32dc93b8ecc95396304d2.js": "/10-multistep-from/precache-manifest.f93cae349ee32dc93b8ecc95396304d2.js",
+    "service-worker.js": "/10-multistep-from/service-worker.js",
+    "static/css/main.8dbe3618.chunk.css.map": "/10-multistep-from/static/css/main.8dbe3618.chunk.css.map",
+    "static/js/2.7c052d41.chunk.js.LICENSE.txt": "/10-multistep-from/static/js/2.7c052d41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eacda78a.js",
+    "static/js/2.7c052d41.chunk.js",
+    "static/css/main.8dbe3618.chunk.css",
+    "static/js/main.d29c97f7.chunk.js"
+  ]
+}
